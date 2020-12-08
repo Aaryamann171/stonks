@@ -1,8 +1,13 @@
 # stonks 💹
-### Predicting stock prices using ANN
+### Predicting stock prices using TimeSeriesGenerator
 
-* Stock Data provided by yahoo finanace! using `yfinance`
+* Stock Data provided by yahoo finanace! using`yfinance`
 * ANN model developed using `Tensorflow` and `Keras`
-* Tested on stocks of Apple, Amazon, FaceBook and Google
+* Tested on Apple ('AAPL') stocks 
 
-Part of __CS-342 : Artificial Neural Networks__
+### Requirements
+* python3
+* yfinance `pip install yfinance`
+* keras
+* numpy
+* matplotlib
